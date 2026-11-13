@@ -1,4 +1,4 @@
-# 🖤 CWL BLACK FRIDAY DEALS ARE LIVE!
+# 🖤 BEST BLACK FRIDAY DEALS YOU CAN’T IGNORE
 
 ## Black Friday 2026 — CyberWarFare Labs
 
