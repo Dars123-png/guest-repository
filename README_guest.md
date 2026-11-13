@@ -6,20 +6,14 @@
 
 Explore individual certifications, curated cybersecurity bundles, and premium plans — all at special Black Friday prices.
 
-- **Individual Certification Deals:** Starting at **$5**
-- **Cybersecurity Certification Bundles:** Save up to **90%**
-- **CWL Premium Plans:** Save up to **$800**
-
-Explore the **best cyber security Black Friday deals** and discover cyber security training offers across red team, blue team, cloud security, AI security, and more.
-
-## 🎯 Explore Black Friday Offers
-
 | Offer Category | Highlight |
 |---|---|
-| Individual Certification Deals | Individual courses starting at **$5** |
-| Cybersecurity Certification Bundles | Curated learning paths with discounts of up to **90%** |
-| Infinity Sale | Yearly access for **$49** or monthly access for **$5** |
-| CWL Premium Plans | Save up to **$800** on premium access |
+| [Individual Certification Deals](https://cyberwarfare.live/certifications) | Individual courses starting at **$5** |
+| [Cybersecurity Certification Bundles](https://cyberwarfare.live/bundles) | Curated learning paths with discounts of up to **90%** |
+| [Infinity Sale](https://cyberwarfare.live/cwl-cyber-infinity) | Yearly access for **$49** or monthly access for **$5** |
+| [CWL Premium Plans](https://cyberwarfare.live/premium) | Save up to **$800** on premium access |
+
+Explore the **best cyber security Black Friday deals** and discover cyber security training offers across red team, blue team, cloud security, AI security, and more.
 
 ## 🎁 Cybersecurity Certification Bundles
 
@@ -74,16 +68,12 @@ A coupon code is required for these additional discounts.
 
 Explore our **6 newly added pre-released courses**, available as part of the Black Friday promotion. Discover new learning opportunities, strengthen your practical skills, and take advantage of these limited-time **cyber security Black Friday offers**.
 
-- Add the six course names and their links here.
-
-## 🎓 Offers for Existing Registered Users
-
-Already registered with CyberWarFare Labs? Check the available special pricing for existing users:
-
-- [Extend Your Lab Access Here](LAB_EXTENSION_URL)
-- [Get Additional Exam Attempts Here](EXAM_ATTEMPT_URL)
-
-Replace the links above with the applicable offer pages.
+1. [Multi Cloud AI Red Team Analyst](https://cyberwarfare.live/certifications/multi-cloud-ai-red-team-analyst-mc-airta)
+2. [MCP Red Team Analyst](https://cyberwarfare.live/certifications/mcp-red-team-analyst-mcp-rta)
+3. [LLM Red Team Analyst](https://cyberwarfare.live/certifications/llm-red-team-analyst-llm-rta)
+4. [Offensive C2 Operator](https://cyberwarfare.live/certifications/offensive-c2-analyst-oc2a)
+5. [Certified Digital Forensics Analyst (CDFA)](https://cyberwarfare.live/certifications/certified-digital-forensics-analyst-cdfa)
+6. [Certified Threat Intelligence Analyst (CTIA)](https://cyberwarfare.live/certifications/certified-threat-intelligence-analyst-ctia)
 
 ## 🌐 Another Cybersecurity Black Friday Sale
 
@@ -93,9 +83,9 @@ Use coupon code **`BF-90`** at checkout. The listed tier pricing is:
 
 | Exam Tier | Original Price | Price with `BF-90` |
 |---|---:|---:|
-| Essentials | £100 | **£10** |
-| Professional | £250 | **£25** |
-| eXpert | £400 | **£40** |
+| Essentials | £100 | **$10** |
+| Professional | £250 | **$25** |
+| eXpert | £400 | **$40** |
 
 Browse the available exams and offer details on the [PentestingExams All Exams page](https://pentestingexams.com/product-category/all-exams/).
 
