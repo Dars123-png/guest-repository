@@ -83,9 +83,9 @@ Use coupon code **`BF-90`** at checkout. The listed tier pricing is:
 
 | Exam Tier | Original Price | Price with `BF-90` |
 |---|---:|---:|
-| Essentials | £100 | **$10** |
-| Professional | £250 | **$25** |
-| eXpert | £400 | **$40** |
+| [Essentials](https://pentestingexams.com/product-category/essentials/) | $132 | **$13** |
+| [Professional](https://pentestingexams.com/product-category/professional/) | $331 | **$33** |
+| [eXpert](https://pentestingexams.com/product-category/expert/) | $529 | **$53** |
 
 Browse the available exams and offer details on the [PentestingExams All Exams page](https://pentestingexams.com/product-category/all-exams/).
 
@@ -106,7 +106,7 @@ Browse the available exams and offer details on the [PentestingExams All Exams p
 
 Visit the [CyberWarFare Labs website](https://cyberwarfare.live/) to explore the offers and proceed to checkout.
 
-For complete offer details, course lists, bundle contents, FAQs, and terms, refer to the **main Black Friday Sale repository**: [View Main Repository](MAIN_REPOSITORY_URL).
+For complete offer details, course lists, bundle contents, FAQs, and terms, refer to the **main Black Friday Sale repository**: [View Main Repository]().
 
 ## 🌐 Stay Connected
 
