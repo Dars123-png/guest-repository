@@ -76,6 +76,10 @@ Explore our **6 newly added pre-released courses**, available as part of the Bla
 6. [Certified Threat Intelligence Analyst (CTIA)](https://cyberwarfare.live/certifications/certified-threat-intelligence-analyst-ctia)
 
 ## 🌐 Another Cybersecurity Black Friday Deal by SecOps Group
+## About The SecOps Group
+The [SecOps Group](https://pentestingexams.com/) is a cybersecurity company providing security consultancy and cybersecurity education. Its services include CREST-accredited security consultancy and practical pentesting certification exams. [Learn more about The SecOps Group](https://secops.group/about-us/).
+
+### 🎯 The SecOps Group — Black Friday Special
 
 Looking at offers from other cybersecurity certification providers too? **PentestingExams** is advertising a Black Friday discount of **90% off all pentesting exams**.
 
@@ -90,6 +94,8 @@ Use coupon code **`BF-90`** at checkout. The listed tier pricing is:
 Browse the available exams and offer details on the [PentestingExams All Exams page](https://pentestingexams.com/product-category/all-exams/).
 
 *Prices and promotion details are shown as listed on the provider's website and may change. Check the offer page before purchasing.*
+
+
 
 ## 🛒 How to Claim an Offer
 
