@@ -75,7 +75,7 @@ Explore our **6 newly added pre-released courses**, available as part of the Bla
 5. [Certified Digital Forensics Analyst (CDFA)](https://cyberwarfare.live/certifications/certified-digital-forensics-analyst-cdfa)
 6. [Certified Threat Intelligence Analyst (CTIA)](https://cyberwarfare.live/certifications/certified-threat-intelligence-analyst-ctia)
 
-## 🌐 Another Cybersecurity Black Friday Sale
+## 🌐 Another Cybersecurity Black Friday Deal by SecOps Group
 
 Looking at offers from other cybersecurity certification providers too? **PentestingExams** is advertising a Black Friday discount of **90% off all pentesting exams**.
 
