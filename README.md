@@ -10,7 +10,7 @@ Explore individual certifications, curated cybersecurity bundles, and premium pl
 |---|---|
 | [Individual Certification Deals](https://cyberwarfare.live/certifications) | Individual courses starting at **$5** |
 | [Cybersecurity Certification Bundles](https://cyberwarfare.live/bundles) | Curated learning paths with discounts of up to **90%** |
-| [Infinity Sale](https://cyberwarfare.live/cwl-cyber-infinity) | Yearly access for **$49** or monthly access for **$5** |
+| [Infinity Sale](https://infinity.cyberwarfare.live/) | Yearly access for **$49** or monthly access for **$5** |
 | [CWL Premium Plans](https://cyberwarfare.live/premium) | Save up to **$800** on premium access |
 
 Explore the **best cyber security Black Friday deals** and discover cyber security training offers across red team, blue team, cloud security, AI security, and more.
