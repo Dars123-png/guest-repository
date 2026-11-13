@@ -122,5 +122,3 @@ Questions or feedback? Contact **support@cyberwarfare.live**.
 ---
 
 **Happy Learning & Happy Black Friday!** 🖤
-
-*CyberWarFare Labs — Learn. Practice. Defend.*
