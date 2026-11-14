@@ -1,4 +1,4 @@
-# 🖤 CWL BLACK FRIDAY DEALS ARE LIVE!
+# 🖤BEST BLACK FRIDAY DEALS YOU CAN’T IGNORE
 
 ## Black Friday 2026 — CyberWarFare Labs
 
@@ -16,10 +16,10 @@ Explore the **best cyber security Black Friday deals** and discover cyber securi
 
 | Offer Category | Highlight |
 |---|---|
-| Individual Certification Deals | Individual courses starting at **$5** |
-| Cybersecurity Certification Bundles | Curated learning paths with discounts of up to **90%** |
-| Infinity Sale | Yearly access for **$49** or monthly access for **$5** |
-| CWL Premium Plans | Save up to **$800** on premium access |
+| [Individual Certification Deals](https://cyberwarfare.live/certifications) | Individual courses starting at **$5** |
+| [Cybersecurity Certification Bundles](https://cyberwarfare.live/bundles) | Curated learning paths with discounts of up to **90%** |
+| [Infinity Sale](https://infinity.cyberwarfare.live/) | Yearly access for **$49** or monthly access for **$5** |
+| [CWL Premium Plans](https://cyberwarfare.live/premium) | Save up to **$800** on premium access |
 
 ## 🎁 Cybersecurity Certification Bundles
 
@@ -74,19 +74,20 @@ A coupon code is required for these additional discounts.
 
 Explore our **6 newly added pre-released courses**, available as part of the Black Friday promotion. Discover new learning opportunities, strengthen your practical skills, and take advantage of these limited-time **cyber security Black Friday offers**.
 
-- Add the six course names and their links here.
+1. [Multi Cloud AI Red Team Analyst](https://cyberwarfare.live/certifications/multi-cloud-ai-red-team-analyst-mc-airta)
+2. [MCP Red Team Analyst](https://cyberwarfare.live/certifications/mcp-red-team-analyst-mcp-rta)
+3. [LLM Red Team Analyst](https://cyberwarfare.live/certifications/llm-red-team-analyst-llm-rta)
+4. [Offensive C2 Operator](https://cyberwarfare.live/certifications/offensive-c2-analyst-oc2a)
+5. [Certified Digital Forensics Analyst (CDFA)](https://cyberwarfare.live/certifications/certified-digital-forensics-analyst-cdfa)
+6. [Certified Threat Intelligence Analyst (CTIA)](https://cyberwarfare.live/certifications/certified-threat-intelligence-analyst-ctia)
 
-## 🎓 Offers for Existing Registered Users
+## 🌐 Another Cybersecurity Black Friday Deal by SecOps Group
 
-Already registered with CyberWarFare Labs? Check the available special pricing for existing users:
+### About The SecOps Group
 
-- [Extend Your Lab Access Here](LAB_EXTENSION_URL)
-- [Get Additional Exam Attempts Here](EXAM_ATTEMPT_URL)
+[The SecOps Group](https://pentestingexams.com/) is a cybersecurity company focused on security consultancy, cybersecurity education, and professional penetration testing certifications. Its services include CREST-accredited security consultancy and practical pentesting certification exams. [Learn more about The SecOps Group](https://secops.group/about-us/).
 
-Replace the links above with the applicable offer pages.
-
-## 🌐 Another Cybersecurity Black Friday Sale
-
+### 🎯 The SecOps Group — Black Friday Special
 Looking at offers from other cybersecurity certification providers too? **PentestingExams** is advertising a Black Friday discount of **90% off all pentesting exams**.
 
 Use coupon code **`BF-90`** at checkout. The listed tier pricing is:
@@ -116,7 +117,7 @@ Browse the available exams and offer details on the [PentestingExams All Exams p
 
 Visit the [CyberWarFare Labs website](https://cyberwarfare.live/) to explore the offers and proceed to checkout.
 
-For complete offer details, course lists, bundle contents, FAQs, and terms, refer to the **main Black Friday Sale repository**: [View Main Repository](MAIN_REPOSITORY_URL).
+For complete offer details, course lists, bundle contents, FAQs, and terms, refer to the **main Black Friday Sale repository**: [View Main Repository](https://github.com/RedTeamOperations/black-friday-cyber-sale-2025).
 
 ## 🌐 Stay Connected
 
